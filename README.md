@@ -29,17 +29,17 @@
 <div style="background: linear-gradient(135deg, rgba(110,84,148,0.1) 0%, rgba(54,162,235,0.1) 100%); padding: 25px; border-radius: 15px; margin: 30px 0; backdrop-filter: blur(5px);">
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 20px;">
-  <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="65" height="65" alt="React" /></a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp"  width="65" height="65" alt="Next.js" /></a>
-  <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://vitejs.dev/logo.svg"  width="65" height="65" alt="Vite" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"  width="65" height="65" alt="TailwindCSS" /></a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"  width="65" height="65" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"  width="65" height="65" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"  width="65" height="65"" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="65" height="65" alt="PostgreSQL" /></a>
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp"  width="55" height="55" alt="Next.js" /></a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://vitejs.dev/logo.svg"   width="55" height="55" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"   width="55" height="55" alt="TailwindCSS" /></a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"   width="55" height="55" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"   width="55" height="55" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"   width="55" height="55" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"  width="55" height="55" alt="PostgreSQL" /></a>
   <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="65" height="65" alt="Redis" /></a>
-   <a href="https://soliditylang.org/" target="_blank" title="Solidity"><img src="https://cdn.worldvectorlogo.com/logos/solidity.svg"  width="65" height="65" alt="Solidity" /></a>
-  <a href="https://hardhat.org/" target="_blank" title="Hardhat"><img src="https://miro.medium.com/v2/0*-B8dzddK9QVUrV5_.png"  width="65" height="65" alt="Hardhat" /></a>
+   <a href="https://soliditylang.org/" target="_blank" title="Solidity"><img src="https://cdn.worldvectorlogo.com/logos/solidity.svg"   width="55" height="55" alt="Solidity" /></a>
+  <a href="https://hardhat.org/" target="_blank" title="Hardhat"><img src="https://miro.medium.com/v2/0*-B8dzddK9QVUrV5_.png"   width="55" height="55" alt="Hardhat" /></a>
 </div>
 
 
