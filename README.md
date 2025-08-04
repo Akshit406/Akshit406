@@ -1,16 +1,90 @@
-## Hi there 👋
+<!-- Banner Section -->
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Akshit406/akshit-github/main/codingbg.webp" 
+    alt="MasterHead Banner"
+    style="width: 100%; max-height: 420px; object-fit: cover; border-radius: 8px;"
+  />
+</div>
 
-<!--
-**Akshit406/Akshit406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Akshit Saxena</h1>
+<h3 align="center">Full Stack Developer | AI SaaS Builder | DApp Creator</h3>
+<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/3e/c4/37/3ec43786b484c617a1ba4ea7945ec9bd.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Akshit406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+- 🎓 Pursuing Bachelor's in **Btech ECE** from **JC Bose University, Haryana** (2022 - 2026)
+- 💻 Passionate about building **AI tools** and **decentralized apps**
+- 🌱 Currently mastering **Next.js** and **Web3 technologies**
+- 📫 Reach me: **akshitsaxena450@gmail.com**
+
+
+---
+
+## 🛠️ Tech Stack
+
+<div style="background: linear-gradient(135deg, rgba(110,84,148,0.1) 0%, rgba(54,162,235,0.1) 100%); padding: 25px; border-radius: 15px; margin: 30px 0; backdrop-filter: blur(5px);">
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 20px;">
+  <a href="https://reactjs.org/" target="_blank" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank" title="Next.js"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50" height="50" alt="Next.js" /></a>
+  <a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="50" height="50" alt="TailwindCSS" /></a>
+  <a href="https://nodejs.org/" target="_blank" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" title="Express.js"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="50" height="50" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50" alt="PostgreSQL" /></a>
+  <a href="https://redis.io/" target="_blank" title="Redis"><img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="50" height="50" alt="Redis" /></a>
+   <a href="https://soliditylang.org/" target="_blank" title="Solidity"><img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" width="50" height="50" alt="Solidity" /></a>
+  <a href="https://hardhat.org/" target="_blank" title="Hardhat"><img src="https://miro.medium.com/v2/0*-B8dzddK9QVUrV5_.png" width="50" height="50" alt="Hardhat" /></a>
+</div>
+
+
+
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Akshit406&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" 
+    alt="GitHub Stats" 
+    style="height: 200px; min-width: 400px; border-radius: 10px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit406&theme=radical&hide_border=true" 
+    alt="GitHub Streak" 
+    style="height: 200px; min-width: 400px; border-radius: 10px;"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit406&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+    alt="Top Languages" 
+    style="height: 200px; min-width: 400px; border-radius: 10px;"
+  />
+</div>
+
+---
+
+
+## 🤝 Let's Connect
+
+<p align="center" style="margin-top: 30px;">
+  <a href="mailto:akshitsaxena450@gmail.com" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshit-saxena-48a496248" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Akshitsaxena450" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+</p>
