@@ -18,10 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=Akshit406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🎓 Pursuing **Btech ECE** from **JC Bose University, Haryana** (2022 - 2026)
-- 💻 Passionate about building **AI tools** and **decentralized apps**
-- 🌱 Currently learning **Next.js** and **Typescript**
-- 📫 Reach me: **akshitsaxena450@gmail.com** || **+91 9599434696**
+-  Pursuing **Btech ECE** from **JC Bose University, Haryana** (2022 - 2026)
+-  Passionate about building **AI tools** and **decentralized apps**
+-  Currently learning **Next.js** and **Typescript**
+-  Reach me: **akshitsaxena450@gmail.com** || **+91 9599434696**
 
 
 <br>
