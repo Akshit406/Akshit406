@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <div align="center">
   <img 
-    src="./githubbg.webm" 
+    src="./githubbg.webp" 
     alt="MasterHead Banner"
     style="width: 100%; max-height: 420px; object-fit: cover; border-radius: 8px;"
   />
