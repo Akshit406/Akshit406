@@ -7,10 +7,12 @@
   />
 </div>
 
+<br>
 
 <h1 align="center">Hi 👋, I'm Akshit Saxena</h1>
 <h3 align="center">Full Stack Developer | AI SaaS Builder | DApp Creator</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/3e/c4/37/3ec43786b484c617a1ba4ea7945ec9bd.gif">
+<br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Akshit406&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -22,10 +24,11 @@
 - 📫 Reach me: **akshitsaxena450@gmail.com** || **+91 9599434696**
 
 
----
+<br>
+<br>
 
 ## 🛠️ Tech Stack
-
+<br>
 <div style="background: linear-gradient(135deg, rgba(110,84,148,0.1) 0%, rgba(54,162,235,0.1) 100%); padding: 25px; border-radius: 15px; margin: 30px 0; backdrop-filter: blur(5px);">
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-bottom: 20px;">
@@ -46,11 +49,13 @@
 
 
 </div>
+<br>
+<br>
 
----
+
 
 ## 📊 GitHub Analytics
-
+<br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Akshit406&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" 
@@ -72,11 +77,13 @@
   />
 </div>
 
----
+<br>
+<br>
+
 
 
 ## 🤝 Let's Connect
-
+<br>
 <p align="center" style="margin-top: 30px;">
   <a href="mailto:akshitsaxena450@gmail.com" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
