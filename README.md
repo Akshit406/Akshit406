@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Akshit406/akshit-github/main/codingbg.webp" 
+    src="./githubbg.webm" 
     alt="MasterHead Banner"
     style="width: 100%; max-height: 420px; object-fit: cover; border-radius: 8px;"
   />
@@ -18,7 +18,7 @@
 
 - 🎓 Pursuing **Btech ECE** from **JC Bose University, Haryana** (2022 - 2026)
 - 💻 Passionate about building **AI tools** and **decentralized apps**
-- 🌱 Currently mastering **Next.js** and **Web3 technologies**
+- 🌱 Currently learning **Next.js** and **Typescript**
 - 📫 Reach me: **akshitsaxena450@gmail.com** || **+91 9599434696**
 
 
