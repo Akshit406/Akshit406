@@ -62,11 +62,7 @@
     alt="GitHub Stats" 
     style="height: 200px; min-width: 400px; border-radius: 10px;"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit406&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-    style="height: 200px; min-width: 400px; border-radius: 10px;"
-  />
+
 </div>
 
 <div align="center">
